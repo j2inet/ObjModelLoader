@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WaveFrontLoader/WaveFrontLoader.vcxproj" Id="1ff490a7-18eb-48a7-8162-f98c940a7268" />
+</Solution>
