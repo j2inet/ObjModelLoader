@@ -8,9 +8,9 @@ Written by Joel Ivory Johnson
 
 OBJ format lines
 
-- [ ] (v) geometric verticies
-- [ ] (vt) texture vertices
-- [ ] (vn) vertex normals
+- [x] (v) geometric verticies
+- [x] (vt) texture vertices
+- [x] (vn) vertex normals
 - [ ] (vp) parameter space vertices
 - [ ] (cstype) basis matrix, Bezier, B-spline, Cardinal, Taylor
 - [ ] (deg) Degree
