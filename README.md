@@ -6,6 +6,12 @@ is not meant to load all possible constructs that can be found in an OBJ file.
 
 Written by Joel Ivory Johnson
 
+# Specification Source
+
+I looked at several sources and decided on this document as a spec to build from. 
+
+https://paulbourke.net/dataformats/obj/obj_spec.pdf
+
 OBJ format lines
 
 - [x] (v) geometric verticies
